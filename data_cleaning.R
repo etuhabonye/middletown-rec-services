@@ -1,6 +1,6 @@
 library(readr)
 
-Middletown_Rec_Services_Data_012622 <- read_csv("~/junior/spring/stat consulting/Middletown_Rec_Services_Data_012622.csv")
+Middletown_Rec_Services_Data_012622 <- read_csv("Middletown_Rec_Services_Data_012622.csv")
 
 copy <- Middletown_Rec_Services_Data_012622
 
